@@ -252,15 +252,18 @@
                 "MD5": "81e0433ae00602c0e4d00424d213b0ab",
                 "url": "https://raw.githubusercontent.com/FallenGloryDevelopment/FallenGlory-Launcher/master/NebulaFiles/repo/lib/org/apache/logging/log4j/log4j-core/2.15.0/log4j-core-2.15.0.jar"
               }
-            },
+            }
+          ]
+        },
         {
-          "id": "net.optifine:optifine:1.12.2_HD_U_F5",
-          "name": "OptiFine 1.12.2_HD_U_F5",
+          "id": "net.optifine:optifine:1.12.2_HD_U_G5@jar",
+          "name": "OptiFine 1.12.2_HD_U_G5",
           "type": "ForgeMod",
           "artifact": {
-            "size": 2598821,
-            "url": "https://github.com/eeddddyy/SkySV/blob/main/forgemods/optionalon/OptiFine.jar",
-            "MD5": "043ac1db6f7441ea4cf31bcb621aff0b"
+            "size": 2669107,
+            "url": "https://raw.githubusercontent.com/FallenGloryDevelopment/FallenGlory-Launcher/master/NebulaFiles/servers/fgserver-1.12.2/forgemods/required/OptiFine-[HD_U_G5].jar",
+            "MD5": "54e561e441192cf009803ae95873c5d0"
+          }
         }
       ]
     }
