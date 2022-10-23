@@ -252,8 +252,45 @@
                 "MD5": "81e0433ae00602c0e4d00424d213b0ab",
                 "url": "https://raw.githubusercontent.com/FallenGloryDevelopment/FallenGlory-Launcher/master/NebulaFiles/repo/lib/org/apache/logging/log4j/log4j-core/2.15.0/log4j-core-2.15.0.jar"
               }
-            }
-          ]
+            },
+        {
+          "id": "creo.mod:koreanchat:1.12-1.9@jar",
+          "name": "Korean Chat",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 30763,
+            "url": "https://raw.githubusercontent.com/eeddddyy/SkySV/main/forgemods/required/koreanchat.jar",
+            "MD5": "91492de16021a4f7018eb5d523f45fc2"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "net.optifine:optifine:1.12.2_HD_U_F5@jar",
+          "name": "OptiFine 1.12.2_HD_U_F5",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2598821,
+            "url": "https://raw.githubusercontent.com/eeddddyy/SkySV/main/forgemods/required/OptiFine.jar",
+            "MD5": "043ac1db6f7441ea4cf31bcb621aff0b"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "bre.smoothfont:smoothfont:1.12.2-1.16-b3@jar",
+          "name": "Smooth Font",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 228660,
+            "url": "https://raw.githubusercontent.com/eeddddyy/SkySV/main/forgemods/optionalon/SmoothFont-1.12.2-1.16-b3.jar",
+            "MD5": "ce7261ddabc51be714df732365ca3760"
+          },
+          "required": {
+            "value": false
+          }
         }
       ]
     }
