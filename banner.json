@@ -5,17 +5,17 @@
     },
 
     "banner2": {
-        "img": "https://cdn.discordapp.com/attachments/1013330344038121532/1034377956451155968/-001.png",
+        "img": "",
         "url": "https://cafe.naver.com/skysvonline"
     },
 
     "banner3": {
-        "img": "https://media.discordapp.net/attachments/978657882625155072/994613875792154674/-_-001_1.png",
-        "url": "https://discord.gg/2e9xT4PDmC"
+        "img": "",
+        "url": "https://discord.gg/NVNs4kWDxE"
     },
 
     "banner4": {
-        "img": "https://cdn.discordapp.com/attachments/985741761295040530/990986033434865704/438X334_.jpg",
-        "url": "https://cafe.naver.com/mercuryonline"
+        "img": "",
+        "url": "https://cafe.naver.com/skysvonline"
     }
 }
