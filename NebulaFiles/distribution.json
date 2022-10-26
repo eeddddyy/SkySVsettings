@@ -3,8 +3,8 @@
   "rss": "<LINK TO RSS FEED>",
   "discord": {
     "clientId": "983194480184295464983194480184295464",
-    "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-    "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    "smallImageText": "스카이약탈 - 싸움중",
+    "smallImageKey": "seal-circle"
   },
   "servers": [
     {
@@ -16,7 +16,7 @@
       "address": "sky1.kro.kr",
       "minecraftVersion": "1.12.2",
       "discord": {
-        "shortId": "하늘마을 - 농사 ",
+        "shortId": "스카이약탈 - ",
         "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
         "largeImageKey": "icon"
       },
