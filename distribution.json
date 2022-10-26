@@ -2,9 +2,9 @@
   "version": "1.0.0",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
-    "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-    "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-    "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    "clientId": "983194480184295464",
+    "smallImageText": "Sky인생약탈",
+    "smallImageKey": "seal-circle"
   },
   "servers": [
     {
@@ -292,36 +292,6 @@
           },
           "required": {
             "value": false
-          }
-        },
-        {
-          "id": "camera",
-          "name": "camera-1.0.9",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 119247,
-            "url": "https://www.curseforge.com/minecraft/mc-mods/camera-mod/download/2728565",
-            "MD5": "f86194be8b25bb0dcc502d8ea8319b15"
-          }
-        },
-        {
-          "id": "armourers_workshop",
-          "name": "Armourer's Workshop",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 2678747,
-            "url": "https://www.curseforge.com/minecraft/mc-mods/armourers-workshop/download/3101995",
-            "MD5": "12954551f39bed840b32fd8be8fddb54"
-          }
-        },
-        {
-          "id": "customnpcs",
-          "name": "Customnpcs",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 10440159,
-            "url": "https://www.curseforge.com/minecraft/mc-mods/custom-npcs/download/2799797",
-            "MD5": "e8f289624d99a67ee3b78c6524b96b45"
           }
         }
       ]
