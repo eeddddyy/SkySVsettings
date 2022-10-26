@@ -16,7 +16,7 @@
       "address": "sky1.kro.kr",
       "minecraftVersion": "1.12.2",
       "discord": {
-        "shortId": "스카이인생약탈 플레이중",
+        "shortId": "하늘마을 - 농사 ",
         "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
         "largeImageKey": "icon"
       },
@@ -263,6 +263,16 @@
             "size": 2669107,
             "url": "https://raw.githubusercontent.com/FallenGloryDevelopment/FallenGlory-Launcher/master/NebulaFiles/servers/fgserver-1.12.2/forgemods/required/OptiFine-[HD_U_G5].jar",
             "MD5": "54e561e441192cf009803ae95873c5d0"
+          }
+        },
+        {
+          "id": "camera",
+          "name": "camera-1.0.9",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 119247,
+            "url": "https://www.curseforge.com/minecraft/mc-mods/camera-mod/download/2728565",
+            "MD5": "f86194be8b25bb0dcc502d8ea8319b15"
           }
         }
       ]
