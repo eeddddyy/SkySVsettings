@@ -278,7 +278,7 @@
             "MD5": "043ac1db6f7441ea4cf31bcb621aff0b"
           },
           "required": {
-            "value": false
+            "value": true
           }
         },
         {
@@ -303,6 +303,9 @@
             "url": "https://raw.githubusercontent.com/7days162/BeeServer-distributions/main/forgemods/required/CustomNPCs_1.12.2-(05Jul20).jar",
             "MD5": "3ab1a5c4b069d574631da5bc1880ebf7"
           }
+          "required": {
+            "value": true
+          }
         },
         {
           "id": "armourers_workshop:Armourers:Workshop:1.12.2-0.51.0",
@@ -312,6 +315,9 @@
             "size": 2678747,
             "url": "https://raw.githubusercontent.com/7days162/BeeServer-distributions/main/forgemods/required/Armourers-Workshop-1.12.2-0.51.0.jar",
             "MD5": "12954551f39bed840b32fd8be8fddb54"
+          }
+          "required": {
+            "value": true
           }
         }
       ]
