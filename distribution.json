@@ -276,16 +276,6 @@
             }
           },
           {
-            "id": "camera",
-            "name": "camera-1.0.9",
-            "type": "ForgeMod",
-            "artifact": {
-              "size": 119247,
-              "url": "https://www.curseforge.com/minecraft/mc-mods/camera-mod/download/2728565",
-              "MD5": "f86194be8b25bb0dcc502d8ea8319b15"
-            }
-          },
-          {
             "id": "creo.mod:koreanchat:1.12-1.9@jar",
             "name": "Korean Chat",
             "type": "ForgeMod",
