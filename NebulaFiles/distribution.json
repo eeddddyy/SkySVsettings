@@ -3,7 +3,7 @@
   "rss": "<LINK TO RSS FEED>",
   "discord": {
     "clientId": "983194480184295464",
-    "smallImageText": "Sky마을",
+    "smallImageText": "sky마을 - 농사중",
     "smallImageKey": "seal-circle"
   },
   "servers": [
@@ -13,7 +13,7 @@
       "description": "skyserver Running Minecraft 1.12.2 (Forge v14.23.5.2860)",
       "icon": null,
       "version": "1.0.0",
-      "address": "hypixel.net",
+      "address": "skyvillage.kro.kr",
       "minecraftVersion": "1.12.2",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -276,62 +276,6 @@
             "size": 2598821,
             "url": "https://raw.githubusercontent.com/7days162/BeeServer-distributions/main/forgemods/required/OptiFine.jar",
             "MD5": "043ac1db6f7441ea4cf31bcb621aff0b"
-          },
-          "required": {
-            "value": true
-          }
-        },
-        {
-          "id": "bre.smoothfont:smoothfont:1.12.2-1.16-b3@jar",
-          "name": "Smooth Font",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 228660,
-            "url": "https://raw.githubusercontent.com/7days162/BeeServer-distributions/main/forgemods/optionalon/SmoothFont-1.12.2-1.16-b3.jar",
-            "MD5": "ce7261ddabc51be714df732365ca3760"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "noppes.npcs:customnpcs:1.12@jar",
-          "name": "CustomNPCs",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 9911871,
-            "url": "https://raw.githubusercontent.com/7days162/BeeServer-distributions/main/forgemods/required/CustomNPCs_1.12.2-(05Jul20).jar",
-            "MD5": "3ab1a5c4b069d574631da5bc1880ebf7"
-          }
-          "required": {
-            "value": true
-          }
-        },
-        {
-          "id": "armourers_workshop:Armourers:Workshop:1.12.2-0.51.0@jar",
-          "name": "Armourers-Workshop-1.12.2-0.51.0",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 2678747,
-            "url": "https://raw.githubusercontent.com/7days162/BeeServer-distributions/main/forgemods/required/Armourers-Workshop-1.12.2-0.51.0.jar",
-            "MD5": "12954551f39bed840b32fd8be8fddb54"
-          }
-          "required": {
-            "value": true
-          }
-        },
-        {
-          "id": "de.maxhenkel.camera:camera-1.0.11@jar",
-          "name": "camera-1.0.11",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 124352,
-            "url": "https://www.curseforge.com/minecraft/mc-mods/camera-mod/download/3492726",
-            "MD5": "bda90e5df40f1c46b729f282c46f6a97"
-          }
-          "required": {
-            "value": true
-          }
         }
       ]
     }
