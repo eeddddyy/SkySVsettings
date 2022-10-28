@@ -8,12 +8,12 @@
     },
     "servers": [
       {
-        "id": "beeserver-1.12.2",
-        "name": "beeserver (Minecraft 1.12.2)",
-        "description": "beeserver Running Minecraft 1.12.2 (Forge v14.23.5.2860)",
+        "id": "skyserver-1.12.2",
+        "name": "skyserver (Minecraft 1.12.2)",
+        "description": "skyserver Running Minecraft 1.12.2 (Forge v14.23.5.2860)",
         "icon": null,
         "version": "1.0.0",
-        "address": "beeonline.kro.kr",
+        "address": "skyvillage.kro.kr",
         "minecraftVersion": "1.12.2",
         "discord": {
           "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
