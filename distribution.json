@@ -322,12 +322,12 @@
         },
         {
           "id": "de.maxhenkel.camera:camera-1.0.11@jar",
-          "name": "Armourers-Workshop-1.12.2-0.51.0",
+          "name": "camera-1.0.11",
           "type": "ForgeMod",
           "artifact": {
-            "size": 2678747,
-            "url": "https://raw.githubusercontent.com/7days162/BeeServer-distributions/main/forgemods/required/Armourers-Workshop-1.12.2-0.51.0.jar",
-            "MD5": "12954551f39bed840b32fd8be8fddb54"
+            "size": 124352,
+            "url": "https://www.curseforge.com/minecraft/mc-mods/camera-mod/download/3492726",
+            "MD5": "bda90e5df40f1c46b729f282c46f6a97"
           }
           "required": {
             "value": true
