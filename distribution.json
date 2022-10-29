@@ -276,7 +276,7 @@
             }
           },
           {
-            "id": "ru.ordinarycoins:ordinarycoins:1.12.2-1.5.jar",
+            "id": "ru.ordinarycoins:ordinarycoins:1.12.2-1.5@jar",
             "name": "ordinarycoins",
             "type": "ForgeMod",
             "artifact": {
