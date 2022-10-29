@@ -276,6 +276,16 @@
             }
           },
           {
+            "id": "ru.ordinarycoins:ordinarycoins:1.12.2-1.5.jar",
+            "name": "ordinarycoins",
+            "type": "ForgeMod",
+            "artifact": {
+              "size": 47241,
+              "url": "https://github.com/eeddddyy/SkySVsettings/raw/main/mods/ordinarycoins-1.12.2-1.5.jar",
+              "MD5": "170bc6362cfd7bad72f9ae11b283954c"
+            }
+          },
+          {
             "id": "creo.mod:koreanchat:1.12-1.9@jar",
             "name": "Korean Chat",
             "type": "ForgeMod",
