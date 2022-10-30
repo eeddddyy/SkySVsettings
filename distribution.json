@@ -286,16 +286,6 @@
             }
           },
           {
-            "id": "net.skyvillage:skycoins:1.0@jar",
-            "name": "Sky Coins",
-            "type": "ForgeMod",
-            "artifact": {
-              "size": 39398,
-              "url": "https://www.curseforge.com/minecraft/mc-mods/skycoins/download/4057812",
-              "MD5": "1376021a28f2218dd2c83c49f35c588b"
-            }
-          },
-          {
             "id": "creo.mod:koreanchat:1.12-1.9@jar",
             "name": "Korean Chat",
             "type": "ForgeMod",
