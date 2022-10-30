@@ -256,6 +256,16 @@
             ]
           },
           {
+            "id": "net.skyvillage.skycoins:SkyCoins:1.0@jar",
+            "name": "Sky Coins",
+            "type": "ForgeMod",
+            "artifact": {
+              "size": 39398,
+              "url": "https://github.com/eeddddyy/SkySVsettings/raw/main/mods/SkyCoins.jar",
+              "MD5": "1376021a28f2218dd2c83c49f35c588b"
+            }
+          },
+          {
             "id": "armourers_workshop:Armourers:Workshop:1.12.2-0.51.0",
             "name": "Armourers-Workshop-1.12.2-0.51.0",
             "type": "ForgeMod",
