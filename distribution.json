@@ -286,7 +286,7 @@
             }
           },
           {
-            "id": "net.skyvillage:skycoins:SkyCoins@jar",
+            "id": "net.skyvillage:skycoins:1.0@jar",
             "name": "Sky Coins",
             "type": "ForgeMod",
             "artifact": {
