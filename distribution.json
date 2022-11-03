@@ -24,13 +24,13 @@
         "autoconnect": true,
         "modules": [
           {
-            "id": "net.minecraftforge:forge:1.12.2-14.23.5.2860:universal",
-            "name": "Minecraft Forge",
-            "type": "ForgeHosted",
+            "id": "com.mumfrey.liteloader.installer:liteloader:1.12.2-00:SNAPSHOT",
+            "name": "LiteLoader",
+            "type": "LiteLoader",
             "artifact": {
-              "size": 4466148,
-              "MD5": "2b5b6ccfa3c6ffcea9073d13d1ec5236",
-              "url": "https://raw.githubusercontent.com/7days162/BeeServer-distributions/main/library/forge-1.12.2-14.23.5.2860-universal.jar"
+              "size": 4150204,
+              "MD5": "6e16b860d6b2a22d6914a1b6f20e0ee0",
+              "url": "https://github.com/eeddddyy/SkySVsettings/raw/main/NebulaFiles/repo/lib/net/minecraftforge/forge/1.12.2-14.23.5.2860/liteloader-installer-1.12.2-00-SNAPSHOT.jar"
             },
             "subModules": [
               {
