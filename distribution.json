@@ -34,13 +34,13 @@
             },
             "subModules": [
               {
-                "id": "1.12.2-00",
-                "name": "liteloader Forge (version.json)",
+                "id": "1.12.2-14.23.5.2860",
+                "name": "Minecraft Forge (version.json)",
                 "type": "VersionManifest",
                 "artifact": {
-                  "size": 888,
-                  "MD5": "5451e66fe139fdc2f62653c301cdc295",
-                  "url": "https://raw.githubusercontent.com/eeddddyy/SkySVsettings/main/NebulaFiles/repo/versions/1.12.2-forge-14.23.5.2860/liteloader-1.12.2.json"
+                    "size": 11799,
+                    "MD5": "fdf65dd024faa5c9a51372e5fb975dfe",
+                    "url": "https://raw.githubusercontent.com/7days162/BeeServer-distributions/main/library/1.12.2-forge-14.23.5.2860.json"
                 }
               },
               {
@@ -256,16 +256,6 @@
             ]
           },
           {
-            "id": "net.skyvillage.skycoins:SkyCoins:1.0@jar",
-            "name": "Sky Coins",
-            "type": "ForgeMod",
-            "artifact": {
-              "size": 39398,
-              "url": "https://github.com/eeddddyy/SkySVsettings/raw/main/mods/SkyCoins.jar",
-              "MD5": "1376021a28f2218dd2c83c49f35c588b"
-            }
-          },
-          {
             "id": "armourers_workshop:Armourers:Workshop:1.12.2-0.51.0",
             "name": "Armourers-Workshop-1.12.2-0.51.0",
             "type": "ForgeMod",
@@ -283,16 +273,6 @@
               "size": 9911871,
               "url": "https://raw.githubusercontent.com/7days162/BeeServer-distributions/main/forgemods/required/CustomNPCs_1.12.2-(05Jul20).jar",
               "MD5": "3ab1a5c4b069d574631da5bc1880ebf7"
-            }
-          },
-          {
-            "id": "de.camera:camera:camera-1.0.9@jar",
-            "name": "camera",
-            "type": "ForgeMod",
-            "artifact": {
-              "size": 119247,
-              "url": "https://github.com/eeddddyy/SkySVsettings/raw/main/mods/camera-1.0.9.jar",
-              "MD5": "f86194be8b25bb0dcc502d8ea8319b15"
             }
           },
           {
