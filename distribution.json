@@ -24,23 +24,23 @@
         "autoconnect": true,
         "modules": [
           {
-            "id": "com.mumfrey.liteloader.installer:liteloader:1.12.2-00:SNAPSHOT",
-            "name": "LiteLoader",
-            "type": "LiteLoader",
+            "id": "net.minecraftforge:forge:1.12.2-14.23.5.2860:universal",
+            "name": "Minecraft Forge",
+            "type": "ForgeHosted",
             "artifact": {
-              "size": 4150204,
-              "MD5": "6e16b860d6b2a22d6914a1b6f20e0ee0",
-              "url": "https://github.com/eeddddyy/SkySVsettings/raw/main/NebulaFiles/repo/lib/net/minecraftforge/forge/1.12.2-14.23.5.2860/liteloader-installer-1.12.2-00-SNAPSHOT.jar"
+                "size": 4466148,
+                "MD5": "2b5b6ccfa3c6ffcea9073d13d1ec5236",
+                "url": "https://raw.githubusercontent.com/7days162/BeeServer-distributions/main/library/forge-1.12.2-14.23.5.2860-universal.jar"
             },
             "subModules": [
               {
-                "id": "1.12.2-14.23.5.2860",
-                "name": "Minecraft Forge (version.json)",
+                "id": "1.12.2-00",
+                "name": "liteloader Forge (version.json)",
                 "type": "VersionManifest",
                 "artifact": {
-                  "size": 11799,
-                  "MD5": "fdf65dd024faa5c9a51372e5fb975dfe",
-                  "url": "https://raw.githubusercontent.com/7days162/BeeServer-distributions/main/library/1.12.2-forge-14.23.5.2860.json"
+                  "size": 888,
+                  "MD5": "5451e66fe139fdc2f62653c301cdc295",
+                  "url": "https://raw.githubusercontent.com/eeddddyy/SkySVsettings/main/NebulaFiles/repo/versions/1.12.2-forge-14.23.5.2860/liteloader-1.12.2.json"
                 }
               },
               {
