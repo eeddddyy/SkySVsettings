@@ -8,12 +8,12 @@
     },
     "servers": [
       {
-        "id": "skyserver-1.12.2",
-        "name": "skyserver (Minecraft 1.12.2)",
-        "description": "skyserver Running Minecraft 1.12.2 (Forge v14.23.5.2860)",
+        "id": "bellumserver-1.12.2",
+        "name": "bellumserver (Minecraft 1.12.2)",
+        "description": "Bellum Running Minecraft 1.12.2 (Forge v14.23.5.2860)",
         "icon": null,
         "version": "1.0.0",
-        "address": "skyvillage.kro.kr",
+        "address": "hyuklee.mcv.kr",
         "minecraftVersion": "1.12.2",
         "discord": {
           "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -256,39 +256,6 @@
             ]
           },
           {
-            "id": "armourers_workshop:Armourers:Workshop:1.12.2-0.51.0",
-            "name": "Armourers-Workshop-1.12.2-0.51.0",
-            "type": "ForgeMod",
-            "artifact": {
-              "size": 2678747,
-              "url": "https://raw.githubusercontent.com/7days162/BeeServer-distributions/main/forgemods/required/Armourers-Workshop-1.12.2-0.51.0.jar",
-              "MD5": "12954551f39bed840b32fd8be8fddb54"
-            }
-          },
-          {
-            "id": "noppes.npcs:customnpcs:1.12@jar",
-            "name": "CustomNPCs",
-            "type": "ForgeMod",
-            "artifact": {
-              "size": 9911871,
-              "url": "https://raw.githubusercontent.com/7days162/BeeServer-distributions/main/forgemods/required/CustomNPCs_1.12.2-(05Jul20).jar",
-              "MD5": "3ab1a5c4b069d574631da5bc1880ebf7"
-            }
-          },
-          {
-            "id": "creo.mod:koreanchat:1.12-1.9@jar",
-            "name": "Korean Chat",
-            "type": "ForgeMod",
-            "artifact": {
-              "size": 30763,
-              "url": "https://raw.githubusercontent.com/7days162/BeeServer-distributions/main/forgemods/required/koreanchat.jar",
-              "MD5": "91492de16021a4f7018eb5d523f45fc2"
-            },
-            "required": {
-              "value": false
-            }
-          },
-          {
             "id": "net.optifine:optifine:1.12.2_HD_U_F5@jar",
             "name": "OptiFine 1.12.2_HD_U_F5",
             "type": "ForgeMod",
@@ -296,19 +263,6 @@
               "size": 2598821,
               "url": "https://raw.githubusercontent.com/7days162/BeeServer-distributions/main/forgemods/required/OptiFine.jar",
               "MD5": "043ac1db6f7441ea4cf31bcb621aff0b"
-            },
-            "required": {
-              "value": false
-            }
-          },
-          {
-            "id": "bre.smoothfont:smoothfont:1.12.2-1.16-b3@jar",
-            "name": "Smooth Font",
-            "type": "ForgeMod",
-            "artifact": {
-              "size": 228660,
-              "url": "https://raw.githubusercontent.com/7days162/BeeServer-distributions/main/forgemods/optionalon/SmoothFont-1.12.2-1.16-b3.jar",
-              "MD5": "ce7261ddabc51be714df732365ca3760"
             },
             "required": {
               "value": false
