@@ -1,21 +1,21 @@
 { 
     "banner1": {
         "img": "",
-        "url": "https://cafe.naver.com/skysvonline"
+        "url": ""
     },
 
     "banner2": {
-        "img": "https://cdn.discordapp.com/attachments/1013330344038121532/1034774560383438920/-001_1.png",
-        "url": "https://cafe.naver.com/skysvonline"
+        "img": "",
+        "url": ""
     },
 
     "banner3": {
         "img": "",
-        "url": "https://cafe.naver.com/skysvonline"
+        "url": ""
     },
 
     "banner4": {
         "img": "",
-        "url": "https://cafe.naver.com/skysvonline"
+        "url": ""
     }
 }
