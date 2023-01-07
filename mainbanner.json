@@ -1,21 +1,6 @@
 { 
     "banner1": {
-        "img": "",
-        "url": ""
-    },
-
-    "banner2": {
-        "img": "",
-        "url": ""
-    },
-
-    "banner3": {
-        "img": "",
-        "url": ""
-    },
-
-    "banner4": {
-        "img": "",
-        "url": ""
+        "img": "https://cafeptthumb-phinf.pstatic.net/MjAyMjA2MzBfMTA3/MDAxNjU2NTgyNzgyNTAy.1GxBu9WOZ1vpREveiBRWU2LdqITEDhQBCkQ8gVXwfsAg.XsPcTp9Gl9CxwNlt4UoXrOpzKIrwdQfw1il6aBZAPxUg.JPEG/%EC%A0%9C%EB%AA%A9%EC%9D%84-%EC%9E%85%EB%A0%A5%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94_-001_%284%29.jpg?type=w1600",
+        "url": "https://cafe.naver.com/mercuryonline?iframe_url_utf8=%2FArticleRead.nhn%3FreferrerAllArticles%3Dtrue%26clubid%3D30239635%26articleid%3D9834"
     }
 }
